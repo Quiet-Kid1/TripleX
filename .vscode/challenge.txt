@@ -1,0 +1,8 @@
+total stand (tempat makan) yang dapat di dirikan di suatu tempat dengan panjang tertentu
+
+Section 2: Triple X - Write Pure C++
+Lecture 13 Challenge
+int main is function that 
+
+int main adalah fungsi untuk menjalankan code-code yang telah di tulis sebelumnya agar program dapat berjalan sesuai dengan code yang qt 
+telah inisialisasikan sebelumnya dan logika yang telah di masukkan ke int main tersebut 
